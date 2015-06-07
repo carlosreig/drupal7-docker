@@ -1,0 +1,11 @@
+apache2-drupal:
+  build: apache
+  ports: 80:80
+  volumes:
+    - web:/var/www/html:rw
+  links:
+    - drupal-db
+
+drupal-db:
+  build: mysql
+  ports: 3306:3306
