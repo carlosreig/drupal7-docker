@@ -24,7 +24,7 @@ Once you clone the repo you will need to build the dockers containers by executi
 
 ``./build.sh``
 
-When the script ends you will have Drupal 7 installed in www/drupal7 and you will be able to access through http://localhost/drupal7.
+When the script ends you will have Drupal 7 installed in www/drupal7 and you will be able to access through [http://localhost/drupal7].
 Since that moment, everytime you want to have your environment working you will only have to execute the start.sh script
 
 ``./start.sh``
