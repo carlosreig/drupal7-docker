@@ -1,3 +1,6 @@
+**Important note**
+This repo has been improved and now it is available in the (LAMP-docker)[https://github.com/carlosreig/lamp-docker/] one
+
 # Drupal 7 docker
 A file structrure to have a full Drupal 7 installation in a docker container.
 
